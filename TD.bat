@@ -1,0 +1,1 @@
+@ d:\masm32\bin\td32.exe Step_One.exe   
